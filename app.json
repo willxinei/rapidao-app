@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rapidao_app",
+    "slug": "rapidao_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rapidao_app"
+}
